@@ -19165,6 +19165,19 @@
                     ]
                 }
             }
+        },
+        "minecraft:pale_oak_wood": {
+            "defaultstate": "minecraft:pale_oak_wood[axis=y]",
+            "properties": {
+                "axis": {
+                    "type": "enum",
+                    "values": [
+                        "x",
+                        "y",
+                        "z"
+                    ]
+                }
+            }
         }
     },
     "items": [
